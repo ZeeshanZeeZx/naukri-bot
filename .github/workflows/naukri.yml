@@ -35,3 +35,9 @@ jobs:
         env:
           NAUKRI_COOKIES: ${{ secrets.NAUKRI_COOKIES }}
         run: python main.py
+
+      - name: Upload debug file
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-page
+          path: debug_page.html
