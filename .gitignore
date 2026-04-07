@@ -1,0 +1,6 @@
+*.deb
+*.pkl
+*.json
+.venv/
+__pycache__/
+log.txt
