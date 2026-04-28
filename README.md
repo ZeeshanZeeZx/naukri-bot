@@ -22,5 +22,5 @@ Automate updating your Naukri.com profile headline using **Playwright** - runs d
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/naukri-bot.git
+git clone https://github.com/ZeeshanZeeZx/naukri-bot.git
 cd naukri-bot
